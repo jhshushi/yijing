@@ -1,0 +1,25 @@
+{
+  "name": "zhouyi",
+  "version": "1.0.0",
+  "description": "周易六十四卦",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node_modules/.bin/docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisiming789/zhouyi.git"
+  },
+  "keywords": [
+    "周易"
+  ],
+  "author": "草木灰",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisiming789/zhouyi/issues"
+  },
+  "homepage": "https://github.com/lisiming789/zhouyi#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
