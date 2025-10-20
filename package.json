@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lisiming789/zhouyi.git"
+    "url": "git+https://github.com/jhshushi/yijing"
   },
   "keywords": [
-    "周易"
+    "易经"
   ],
   "author": "江湖术士",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lisiming789/zhouyi/issues"
+    "url": "https://github.com/jhshushi/yijing/issues"
   },
-  "homepage": "https://github.com/lisiming789/zhouyi#readme",
+  "homepage": "https://github.com/jhshushi/yijing#readme",
   "dependencies": {
     "docsify-cli": "^4.4.4"
   }
