@@ -1,7 +1,7 @@
 {
-  "name": "zhouyi",
+  "name": "yijing",
   "version": "1.0.0",
-  "description": "周易六十四卦",
+  "description": "易经六十四卦",
   "main": "index.js",
   "scripts": {
     "dev": "node_modules/.bin/docsify serve"
