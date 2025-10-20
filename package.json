@@ -4,9 +4,7 @@
   "description": "周易六十四卦",
   "main": "index.js",
   "scripts": {
-    "init": "node_modules/.bin/docsify init docs",
-    "dev": "node_modules/.bin/docsify serve",
-    "build": "node_modules/.bin/docsify serve docs"
+    "dev": "node_modules/.bin/docsify serve"
   },
   "repository": {
     "type": "git",
